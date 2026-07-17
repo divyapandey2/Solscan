@@ -3,11 +3,16 @@
   "version": "1.0.0",
   "main": "index.ts",
   "dependencies": {
+    "@react-navigation/bottom-tabs": "^7.18.11",
+    "@react-navigation/native": "^7.3.11",
+    "@types/react-native": "~0.69.1",
     "expo": "~57.0.6",
     "expo-status-bar": "~57.0.1",
     "react": "19.2.3",
     "react-native": "0.86.0",
-    "react-native-safe-area-context": "~5.7.0"
+    "react-native-safe-area-context": "~5.7.0",
+    "react-native-screens": "^4.26.2",
+    "react-native-vector-icons": "^10.3.0"
   },
   "devDependencies": {
     "@types/react": "~19.2.2",
